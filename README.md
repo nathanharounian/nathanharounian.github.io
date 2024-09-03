@@ -3,9 +3,7 @@
 #### Technical Skills: Python, SQL, R, ShinyApp, Statistical Analysis, Data Visualization, Model Building, MATLAB
 
 ## Education
-- B.A., Statistics | University of California, Berkeley (_May 2024_)
-
-_Minor in Data Science_             		
+- B.A., Statistics | University of California, Berkeley (_May 2024_)            		
 
 ## Work Experience
 **Crew Member, Order Writer Analyst @ Trader Joe's (_July 2021 - Present_)**
