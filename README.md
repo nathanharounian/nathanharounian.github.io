@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, R, ShinyApp, Statistical Analysis, Data Visualization, Model Building, MATLAB
 
 ## Education
 - B.A., Statistics, Minor in Data Science | University of California, Berkeley (_May 2024_)								       		
