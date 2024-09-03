@@ -29,49 +29,49 @@
 
 ## Projects
 ### Predicting Cancer Survival Status
-[PDF Report](https://www.mdpi.com/1424-8220/22/8/3048)
-| [GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
+[PDF Report](https://github.com/nathanharounian/Cancer-Survival-RF-Model/blob/main/cancer-survival-genes-rf-model.pdf)
+| [GitHub Repo](https://github.com/nathanharounian/Cancer-Survival-RF-Model)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Using data from The Cancer Genome Atlas (TCGA), conducted EDA to find a good classifying threshold between ‘high’ and ‘low’ survival. Then, conducted data cleaning by either imputing or removing NA values. Finally, found the most important covariates (genes) through PCA, fit a Random Forest using 10-fold Cross Validation, resulting in a final classifying model with 91% test set accuracy and a Kappa Statistic of 67%.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### CCAO Housing Price Model
-[PDF Report](https://www.mdpi.com/1424-8220/22/11/4240)
-| [GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
+[PDF Report](https://github.com/nathanharounian/CCAO-Housing-Price-MLR-Model/blob/main/proj1b.ipynb)
+| [GitHub Repo](https://github.com/nathanharounian/CCAO-Housing-Price-MLR-Model)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+A linear model using multiple features from the Cook County Assessor’s Office large housing data (204792 observations and 62 features in training data, 68264 observations and 61 features in test data) after exploring the data, refining features, creating new features, and transforming select features) to predict housing prices. Error of model analyzed and improved using Cross Validation on training and test sets.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Lyric Analysis Application
-[Application](https://www.mdpi.com/1424-8220/22/11/4240)
-| [GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
+[Application](https://nathan-harounian.shinyapps.io/beyonce/)
+| [GitHub Repo](https://github.com/nathanharounian/Lyric-Sentiment-Analysis)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Published **ShinyApp** which conducts varying song lyric analysis from azlyrics.com (data cleaning and text mining with Regex). Types of analysis include a word frequency analysis, classic sentiment analysis, sentiment trajectory analysis, and sentiment contribution analysis (all of which display unique bar plots and histograms). The app allows you to pick a specific album of an artist from which to conduct the analysis, or the ability to choose all albums or per album.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Retirement Withdrawal Simulation
-[Application](https://www.mdpi.com/1424-8220/22/11/4240)
-| [GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
+[Application](https://nathan-harounian.shinyapps.io/RetirementPortfolioBalance/)
+| [GitHub Repo](https://github.com/nathanharounian/Retirement-Withdrawal-Simulator)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Published **ShinyApp** in **R** which simulates retirement portfolio balances until the age of 100 using indicators such as initial portfolio amount, retirement age, withdrawal rate; additional inputs such as average annual return and volatility rates and average inflation and volatility rates were modeled to follow a normal distribution for the purposes of the project. These indicators then produce a detailed line plot where each line on the plot represents a single simulation with highlighted lines for quartiles and the average, followed by a table of summary statistics.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Email Spam Classifier Model
-[PDF Report](https://www.mdpi.com/1424-8220/22/11/4240)
-| [GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
+[PDF Report](https://github.com/nathanharounian/Email-Spam-Classifier-Model/blob/main/Email%20Classifier.pdf)
+| [GitHub Repo](https://github.com/nathanharounian/Email-Spam-Classifier-Model/tree/main)
 
 Built a Logistic Regression Model to classify spam emails for detection purposes in **Python** and **JupyterNotebook**. Model built using email data and many engineered features using **Regex** and other functions written from scratch.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ### GLM for Predicting Managerial Salaries
-[PDF Report](https://www.mdpi.com/1424-8220/22/11/4240)
-| [GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
+[PDF Report](https://github.com/nathanharounian/GLM-for-Prediciting-Managerial-Salaries/blob/main/Predicting-Managerial-Salaries-Modeling-Report.pdf)
+| [GitHub Repo](https://github.com/nathanharounian/GLM-for-Prediciting-Managerial-Salaries)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Using **R**, defined a GLM with a Gamma likelihood due to positive-valued outcome variable Salary. Performed model selection using AIC — a function of the KL-Divergence — and BIC criterion metrics, using the best covariates for the model to predict the log of managerial salaries. Checked the validity of the model using a Q-Q plot for the normality assumption, a scale-location plot to check for homoscedasticity, and a residuals vs leverage plot to locate potential influential points using Cook’s distance, as well as a leverage vs studentized residuals plot to look for points with high leverage. Reported RMSE of the held-out test set was about 0.466.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
