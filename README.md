@@ -34,7 +34,7 @@
 
 Using data from The Cancer Genome Atlas (TCGA), conducted EDA to find a good classifying threshold between ‘high’ and ‘low’ survival. Then, conducted data cleaning by either imputing or removing NA values. Finally, found the most important covariates (genes) through PCA, fit a Random Forest using 10-fold Cross Validation, resulting in a final classifying model with 91% test set accuracy and a Kappa Statistic of 67%.
 
-![EEG Band Discovery](/assets/img/cancer.jpg)
+![Gene](/assets/img/cancer.jpg)
 
 ### CCAO Housing Price Model
 [PDF Report](https://github.com/nathanharounian/CCAO-Housing-Price-MLR-Model/blob/main/proj1b.ipynb)
@@ -42,7 +42,7 @@ Using data from The Cancer Genome Atlas (TCGA), conducted EDA to find a good cla
 
 A linear model using multiple features from the Cook County Assessor’s Office large housing data (204792 observations and 62 features in training data, 68264 observations and 61 features in test data) after exploring the data, refining features, creating new features, and transforming select features) to predict housing prices. Error of model analyzed and improved using Cross Validation on training and test sets.
 
-![Bike Study](/assets/img/house_prices.jpg)
+![Housing Prices](/assets/img/house_prices.jpg)
 
 ### Lyric Analysis Application
 [Application](https://nathan-harounian.shinyapps.io/beyonce/)
@@ -50,7 +50,7 @@ A linear model using multiple features from the Cook County Assessor’s Office 
 
 Published **ShinyApp** which conducts varying song lyric analysis from azlyrics.com (data cleaning and text mining with Regex). Types of analysis include a word frequency analysis, classic sentiment analysis, sentiment trajectory analysis, and sentiment contribution analysis (all of which display unique bar plots and histograms). The app allows you to pick a specific album of an artist from which to conduct the analysis, or the ability to choose all albums or per album.
 
-![Bike Study](/assets/img/beyonce.webp)
+![Beyoncé Knowles-Carter](/assets/img/beyonce.webp)
 
 ### Retirement Withdrawal Simulation
 [Application](https://nathan-harounian.shinyapps.io/RetirementPortfolioBalance/)
@@ -58,7 +58,7 @@ Published **ShinyApp** which conducts varying song lyric analysis from azlyrics.
 
 Published **ShinyApp** in **R** which simulates retirement portfolio balances until the age of 100 using indicators such as initial portfolio amount, retirement age, withdrawal rate; additional inputs such as average annual return and volatility rates and average inflation and volatility rates were modeled to follow a normal distribution for the purposes of the project. These indicators then produce a detailed line plot where each line on the plot represents a single simulation with highlighted lines for quartiles and the average, followed by a table of summary statistics.
 
-![Bike Study](/assets/img/retirement.jpg)
+![Retirement](/assets/img/retirement.jpg)
 
 ### Email Spam Classifier Model
 [PDF Report](https://github.com/nathanharounian/Email-Spam-Classifier-Model/blob/main/Email%20Classifier.pdf)
@@ -66,7 +66,7 @@ Published **ShinyApp** in **R** which simulates retirement portfolio balances un
 
 Built a Logistic Regression Model to classify spam emails for detection purposes in **Python** and **JupyterNotebook**. Model built using email data and many engineered features using **Regex** and other functions written from scratch.
 
-![Bike Study](/assets/img/email_spam.png)
+![Email Spam](/assets/img/email_spam.png)
 
 ### GLM for Predicting Managerial Salaries
 [PDF Report](https://github.com/nathanharounian/GLM-for-Prediciting-Managerial-Salaries/blob/main/Predicting-Managerial-Salaries-Modeling-Report.pdf)
@@ -74,4 +74,4 @@ Built a Logistic Regression Model to classify spam emails for detection purposes
 
 Using **R**, defined a GLM with a Gamma likelihood due to positive-valued outcome variable Salary. Performed model selection using AIC — a function of the KL-Divergence — and BIC criterion metrics, using the best covariates for the model to predict the log of managerial salaries. Checked the validity of the model using a Q-Q plot for the normality assumption, a scale-location plot to check for homoscedasticity, and a residuals vs leverage plot to locate potential influential points using Cook’s distance, as well as a leverage vs studentized residuals plot to look for points with high leverage. Reported RMSE of the held-out test set was about 0.466.
 
-![Bike Study](/assets/img/salary.png)
+![Salary](/assets/img/salary.png)
