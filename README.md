@@ -38,7 +38,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ### CCAO Housing Price Model
 [PDF Report](https://www.mdpi.com/1424-8220/22/11/4240)
-[GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
+| [GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
@@ -46,7 +46,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ### Lyric Analysis Application
 [Application](https://www.mdpi.com/1424-8220/22/11/4240)
-[GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
+| [GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
@@ -54,7 +54,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ### Retirement Withdrawal Simulation
 [Application](https://www.mdpi.com/1424-8220/22/11/4240)
-[GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
+| [GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
@@ -62,7 +62,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ### Email Spam Classifier Model
 [PDF Report](https://www.mdpi.com/1424-8220/22/11/4240)
-[GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
+| [GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
@@ -70,7 +70,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ### GLM for Predicting Managerial Salaries
 [PDF Report](https://www.mdpi.com/1424-8220/22/11/4240)
-[GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
+| [GitHub Repo](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
