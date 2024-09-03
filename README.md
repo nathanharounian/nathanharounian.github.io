@@ -44,7 +44,7 @@ A linear model using multiple features from the Cook County Assessor’s Office 
 
 ![Housing Prices](/assets/img/house_prices.jpg)
 
-### Lyric Analysis Application
+### Beyoncé Lyric Analysis Application
 [Application](https://nathan-harounian.shinyapps.io/beyonce/)
 | [GitHub Repository](https://github.com/nathanharounian/Lyric-Sentiment-Analysis)
 
