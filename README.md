@@ -4,6 +4,7 @@
 
 ## Education
 - B.A., Statistics | University of California, Berkeley (_May 2024_)
+
 _Minor in Data Science_             		
 
 ## Work Experience
