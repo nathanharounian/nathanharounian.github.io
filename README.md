@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Salesforce, Tableau, R, ShinyApp, Statistical Analysis, Data Visualization, Model Building, MATLAB
 
 ## Education
-- B.A., Statistics | University of California, Berkeley (_May 2024_)            		
+- B.A., Statistics, Minor in Data Science | University of California, Berkeley (_May 2024_) | Department GPA: 3.82         		
 
 ## Work Experience
 **Data Analyst @ Transform Health (_November 2024 - Present_)**
