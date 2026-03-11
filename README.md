@@ -1,15 +1,17 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, ShinyApp, Statistical Analysis, Data Visualization, Model Building, MATLAB
+#### Technical Skills: Python, SQL, Salesforce, Tableau, R, ShinyApp, Statistical Analysis, Data Visualization, Model Building, MATLAB
 
 ## Education
 - B.A., Statistics | University of California, Berkeley (_May 2024_)            		
 
 ## Work Experience
-**Crew Member, Order Writer Analyst @ Trader Joe's (_July 2021 - Present_)**
-- Analyze supply chain data from 4 datasets using KPIs to write daily produce orders for the largest product section
-- Collaborate with coworkers and store managers with allocating tasks and managing efficiency of store assets to yield regional-high $1M+ in weekly sales
-- Provide excellent customer service: help customers locate products, put products on hold, & shopping assistance
+**Data Analyst @ Transform Health (_November 2024 - Present_)**
+- Manage over 3 projects and create work plans, workflows and SOPs for internal and external use, including a 50+ page SOP for an audit process of the 3-year Incentive Payment Program with over $1.5B in funding from DHCS to Medi-Cal managed care plans
+- Create over 16 maps, bar graphs, and circle charts in Tableau to summarize $86M+ in funding awarded from Global Health Plan client to California providers and health organizations through CalAIM in yearly report for C-suite executives
+- Serve on Executive MIS/Ops Team to plan and implement company-wide policies in AI-use and file management; triage MIS help desk tickets and provide technical support to staff members; interview and hire IT vendor to enhance internal security operations
+- Consult project leads and collaborate with MIS team to create new objects, records, layouts and pages in Salesforce for various new and current projects of differing scopes of work and CRM needs
+- Create an online document hub in SharePoint, train and onboard over 60 health plan and county agency partners in over 12 counties to collaborate on policy and procedure documents; track data of users, create client-branded dashboards in Excel, and report metrics directly to the CEO of the client
 
 **Analyst @ S&T Fraternity Management (_May 2024 - Present_)**
 - Analyze rent prices and room layouts to meet income standards of $41,000+ set by the executive committee board.
@@ -23,7 +25,6 @@
 
 **Data Analytics Researcher @ UC Berkeley Statistics Department (_September 2022- May 2023_)**
 - Deployed multiple solutions to streamline data analysis and data visualization, increasing analysis efficiency by 10x
-- Employ state-of-the-art algorithms from research papers for machine learning purposes
 - Independently managed and analyzed multiple datasets (10M+ feature values) in R Studio
 - Collaborated with research partners, designing and conducting research studies through supervised machine learning to evaluate, predict, and report consumption of information on social media platforms
 
